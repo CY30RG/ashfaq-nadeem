@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 print(
-  "osint"
+  "os1n7"
 )
 
-# o
+# s
