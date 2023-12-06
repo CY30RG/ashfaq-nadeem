@@ -1,7 +1,1 @@
-#!/usr/bin/env python3
-
-print(
-  "cyb0rg"
-)
-
-# }
+print("Did you really think it would be this easy?")
